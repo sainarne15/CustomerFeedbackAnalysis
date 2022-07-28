@@ -9,7 +9,7 @@ App.py will predict the sentence given
 
 How to run:
 
-streamlit run App.py
+Run this in the console 'streamlit run App.py'
 
 
 
